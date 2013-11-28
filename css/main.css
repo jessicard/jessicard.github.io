@@ -97,21 +97,24 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+  background: #FFF url(/img/samoyed.gif);
+  background-size: 100%;
+  text-align: center;
+  margin-top: 15%;
+}
 
+ul {
+  padding: 0;
+  list-style: none;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+a,
+a:hover,
+a:visited {
+  color: #000;
+  text-decoration: none;
+}
 
 /* ==========================================================================
    Helper classes
